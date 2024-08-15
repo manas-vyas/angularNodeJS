@@ -11,8 +11,6 @@
   },
       "publishConfig": {
 	     "registry": "http://172.31.6.38:8081/repository/custom-npm-repo-group/"
-        //172.31.6.38:8081/repository/custom-npm-repo-group/:_auth=bWFuYXM6bWFuYXMxMjM=
-        always-auth=true
       },
   "private": false,
   "dependencies": {
