@@ -9,6 +9,9 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+      "publishConfig": {
+	     "registry": "http://172.31.6.38:8081/repository/custom-npm-artifact-repo/"
+      }
   "private": true,
   "dependencies": {
     "@angular/animations": "~11.2.9",
